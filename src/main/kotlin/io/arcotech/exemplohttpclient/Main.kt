@@ -1,7 +1,7 @@
 package io.arcotech.exemplohttpclient
 
-import io.arcotech.exemplohttpclient.funcoes.TesteMetodoGET
+import io.arcotech.exemplohttpclient.funcoes.TesteMetodoPOST
 
 suspend fun main() {
-    TesteMetodoGET()
+    TesteMetodoPOST()
 }
